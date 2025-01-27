@@ -35,7 +35,7 @@
 ---
 
 ## 📚 Educación
-- **Técnico en Desarrollo de Software** | CESDE | Fecha de inicio - Fecha de finalización (prevista).
+- **Técnico en Desarrollo de Software** | CESDE | Fecha de inicio: febrero de 2024 - Fecha de finalización: junio de 2025.
 
 ---
 
