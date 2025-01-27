@@ -30,8 +30,7 @@
 
 | Proyecto | Descripción | Tecnologías |
 | -------- | ----------- | ----------- |
-| **[Portafolio Personal](https://github.com/tuusuario/portafolio)** | Un sitio web para mostrar mis proyectos y habilidades. | HTML, CSS, JavaScript |
-| **[Clon de Netflix](https://github.com/tuusuario/clon-netflix)** | Una réplica de la interfaz de Netflix usando React y CSS. | React, CSS |
+| **[laVaca](https://github.com/hurtadx/LaVaca)** | Una aplicacion bancaria comunitaria. | JS, CSS |
 
 ---
 
@@ -41,18 +40,16 @@
 ---
 
 ## 📜 Certificados y Cursos
-- **Curso de React** | Platzi | 2023
-- **JavaScript Moderno** | freeCodeCamp | 2023
-- **Diseño Web Responsivo** | freeCodeCamp | 2023
+- https://drive.google.com/drive/folders/14sg0HaqIVR5Qy7T2ZmuxzBs3Fa7NRiYE?usp=drive_link
 
 ---
 
 ## 📫 ¿Quieres colaborar o conectar?
 ¡Me encantaría trabajar contigo en proyectos interesantes! No dudes en contactarme:
 
-- 📧 Correo: [tu correo electrónico]
-- 💼 LinkedIn: [enlace a tu perfil]
-- 🐦 Twitter: [tu usuario]
+- 📧 Correo: [andreshm253@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/andres-hurtado-hurtado-molina-1a7801349/]
+
 
 ---
 
