@@ -30,7 +30,7 @@
 
 | Proyecto | Descripción | Tecnologías |
 | -------- | ----------- | ----------- |
-| **[laVaca](https://github.com/hurtadx/LaVaca)** | Una aplicacion bancaria comunitaria. | JS, CSS |
+| **[laVaca](https://github.com/hurtadx/LaVacaReact)** | Una aplicacion bancaria comunitaria. | REACT, CSS |
 
 ---
 
