@@ -31,6 +31,7 @@
 | Proyecto | Descripción | Tecnologías |
 | -------- | ----------- | ----------- |
 | **[laVaca](https://github.com/hurtadx/LaVacaReact)** | Una aplicacion bancaria comunitaria. | REACT, CSS |
+| **[ARCO](https://github.com/hurtadx/Arco_Project)** | Una aplicacion para registro de objetos. | REACT, ELECTRON |
 
 ---
 
