@@ -41,7 +41,7 @@
 ---
 
 ## 📜 Certificados y Cursos
-- [Platzi](https://drive.google.com/drive/folders/14sg0HaqIVR5Qy7T2ZmuxzBs3Fa7NRiYE?usp=drive_link)
+- **[Platzi](https://drive.google.com/drive/folders/14sg0HaqIVR5Qy7T2ZmuxzBs3Fa7NRiYE?usp=drive_link)**
 
 ---
 
