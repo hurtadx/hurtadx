@@ -1,6 +1,7 @@
 # ¡Hola! 👋 Soy Andrés Hurtado
 
-¡Bienvenido a mi perfil de GitHub! Soy un estudiante de **Desarrollo de Software** en **CESDE**, apasionado por el desarrollo web y muy interesado en el frontend. Actualmente estoy aprendiendo **React** ⚛️ y explorando **Node.js** para adentrarme en el backend.
+Soy desarrollador fullstack, graduado de CESDE, con experiencia en React ⚛️ y un fuerte interés en el desarrollo backend, los microservicios y la arquitectura de software.
+Actualmente, estoy profundizando en Node.js y otras tecnologías para crear aplicaciones escalables y eficientes.
 
 ---
 
