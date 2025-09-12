@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Andrés Hurtado
 
-Soy desarrollador fullstack, graduado de CESDE, con experiencia en React ⚛️ y un fuerte interés en el desarrollo backend, los microservicios y la arquitectura de software.
+Soy desarrollador fullstack, graduado de CESDE, con experiencia en React  y un fuerte interés en el desarrollo backend, los microservicios y la arquitectura de software.
 Actualmente, estoy profundizando en Node.js y otras tecnologías para crear aplicaciones escalables y eficientes.
 
 ---
