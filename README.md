@@ -23,9 +23,9 @@ Actualmente, estoy profundizando en Node.js y otras tecnologías para crear apli
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Intereses Actuales
-- 🎨 Desarrollo de interfaces atractivas y funcionales.
-- 🏗️ Aprender sobre arquitectura de aplicaciones web.
-- 🚀 Explorar herramientas modernas como **Vite** y **Next.js**.
+- Desarrollo de interfaces atractivas y funcionales.
+- Aprender sobre arquitectura de aplicaciones web.
+- Explorar herramientas modernas como **Vite** y **Next.js**.
 
 ---
 
